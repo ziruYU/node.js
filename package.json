@@ -1,0 +1,38 @@
+{
+  "name": "cptyo",
+  "version": "1.0.0",
+  "description": "nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziruYU/nodejs.git"
+  },
+  "author": "fishzero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziruYU/nodejs/issues"
+  },
+  "homepage": "https://github.com/ziruYU/nodejs#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "github": "^11.0.0"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "event-stream": "^3.3.4",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-order": "^1.1.1",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0",
+    "order": "^0.1.0"
+  }
+}

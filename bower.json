@@ -1,0 +1,26 @@
+{
+  "name": "sacdl-projet",
+  "main": "index.js",
+  "description": "cypto",
+  "keywords": [
+    "cyptocurrency",
+    "bitcoin.d3js",
+    "node.js"
+  ],
+  "authors": [
+    "fishzero"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ziruYU/nodejs.git",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^4.10.2"
+  }
+}
